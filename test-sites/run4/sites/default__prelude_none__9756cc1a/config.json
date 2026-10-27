@@ -1,0 +1,83 @@
+{
+  "account_creation_option": "none",
+  "address_structure": "line_based",
+  "address_validation_service": "none",
+  "api_response_timing": "standard",
+  "aria_attributes_usage": false,
+  "attribute_nuances": [],
+  "autocomplete_attribute": "proper",
+  "broken_visuals_scenario": false,
+  "browser_interaction_overlays": [],
+  "business_fields": "none",
+  "button_text_map": {
+    "add_to_cart": "Add to cart",
+    "proceed_to_checkout": "Secure checkout"
+  },
+  "captcha_usage": "none",
+  "checkout_flow_type": "single_page",
+  "checkout_step_layout": "vertical_flow",
+  "conditional_billing_address": true,
+  "country_picker_location": "integrated_in_address_form",
+  "country_specific_address_formats": false,
+  "coupon_code_location": "payment_step",
+  "credit_card_number_structure": "single_field",
+  "currency_display": "single_currency",
+  "custom_controls": [],
+  "default_shipping_selection": "none",
+  "delivery_instructions_field": "none",
+  "disabled_buttons_until_valid": false,
+  "document_element_ids": "meaningful",
+  "dynamic_form_fields": false,
+  "dynamic_shipping_cost_updates": false,
+  "error_message_display": "top_of_page",
+  "estimated_delivery_dates": false,
+  "expiration_date_field_structure": "none",
+  "external_script_blockers": false,
+  "field_validation_timing": "on_submit",
+  "gifting_options": "none",
+  "guest_checkout_policy": "allowed",
+  "initial_gate": "none",
+  "inline_expansion_elements": [],
+  "input_masking": false,
+  "javascript_framework_driven": false,
+  "label_style": "standard_label",
+  "lazy_loading": false,
+  "modal_actions": [],
+  "name_structure": "full_name",
+  "non_standard_elements": false,
+  "optional_address_fields": [],
+  "order_confirmation_structure": [
+    "basic_summary"
+  ],
+  "out_of_stock_behavior": "block_checkout",
+  "payment_decline_feedback": "generic_error",
+  "payment_method_driven_fields": false,
+  "payment_methods": [
+    "credit_card_on_site"
+  ],
+  "phone_number_structure": "single_field",
+  "prelude": "none",
+  "product_types": [],
+  "promotions_available": [],
+  "quantity_limits": false,
+  "review_step_style": "integrated_with_payment",
+  "saved_cart_feature": false,
+  "shadow_dom_fields": false,
+  "shipping_calculator_widget": false,
+  "shipping_cost_rules": [
+    "flat_rate"
+  ],
+  "shipping_options": [
+    "tiered"
+  ],
+  "shipping_restrictions_display": "none",
+  "signature_requirement_option": false,
+  "step_order": [
+    "shipping",
+    "payment",
+    "review"
+  ],
+  "sticky_elements": [],
+  "tax_calculation_timing": "review_step",
+  "terms_and_conditions_style": "link_only"
+}
